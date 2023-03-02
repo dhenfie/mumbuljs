@@ -1,2 +1,3 @@
 # mumbuljs
-Simple library for creating modal dialog with HTML5
+
+Mumbul.js is a library for creating modal dialogs easily.
